@@ -40,7 +40,7 @@ If you're in trouble, contact someone from our team. We'll help you asap.
 
 <h4>Components and dependencies</h4>  
 
-As teased previously, we'll be skimming through a handful of tools pertaining to Python's galaxy. To make sure y'all can be up to the task as soon as the workshop gets started, you'll need to proceed as per the following instructions. Don't worry, that's kinda similar to what you've been encountered on React, NodeJs and NPM.                 
+As teased previously, we'll be skimming through a handful of tools pertaining to Python's galaxy. To make sure y'all can be up to the task as soon as the workshop gets started, you'll need to proceed as per the following instructions. Don't worry, that's kinda similar to what you've encountered on React, NodeJs and NPM.                 
 
 📌 First of all, check whether or not **pip**'s installed  
 
