@@ -34,7 +34,8 @@ Furthermore, though they don't compete on equal footing with the JS big three (R
 ```
 Since you're all using Windows (ignore the crowd booing in the background), 
 all you've got to do is install Python 3.10.
-The drills and activities we'll be sharing rely on that version, which is the latest.  
+The drills and activities we'll be sharing rely on that version, which is the latest.
+Once Python 3.10 is installed, you can add the extensions Python and Pylance on VsCode. 
 If you're in trouble, contact someone from our team. We'll help you asap.
 ```  
 
