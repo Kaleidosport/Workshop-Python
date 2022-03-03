@@ -64,4 +64,4 @@ One thing leading to another, you already got a small preview of the techs you'l
 
 Lookin' forward to diggin' deeper on Thursday! :eyes:  
 
-<div align="center"><a href="">INTRO</a></div>       
+<div align="center"><a href="./2. Medley/pyramid.md">⏩ PYRAMID ⏩</a></div>      
